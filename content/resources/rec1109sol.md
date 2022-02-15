@@ -2,8 +2,13 @@
 content_type: resource
 description: This resource includes the solution of problem given in recitation problem
   for session 33.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/10-302-transport-processes-fall-2004/38e2cc3fdb737da702b39af8ecf9d39b_rec1109sol.pdf
+file: /media/courses/10-302-transport-processes-fall-2004/38e2cc3fdb737da702b39af8ecf9d39b_rec1109sol.pdf
 file_type: application/pdf
+learning_resource_types:
+- Recitations
+ocw_type: OCWFile
+parent_title: Recitations
+parent_type: CourseSection
 resourcetype: Document
 title: rec1109sol.pdf
 uid: 38e2cc3f-db73-7da7-02b3-9af8ecf9d39b
