@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: e768ed94-4857-57f1-dfe8-1444f83fae39
 resourcetype: Document
 title: exprobs.pdf
 uid: 2c7279ed-7869-bc99-6470-8ca612cd9a85
