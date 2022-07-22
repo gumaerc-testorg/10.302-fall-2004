@@ -1,10 +1,11 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/10-302-transport-processes-fall-2004/d79f1bdf74ae857c7d27b9c35ce7fff1_final_exam.pdf
+file: /courses/10-302-transport-processes-fall-2004/d79f1bdf74ae857c7d27b9c35ce7fff1_final_exam.pdf
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection

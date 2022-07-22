@@ -1,10 +1,11 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/10-302-transport-processes-fall-2004/7173fb32543a106b683895937b6e1ec3_pset3.pdf
+file: /courses/10-302-transport-processes-fall-2004/7173fb32543a106b683895937b6e1ec3_pset3.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
