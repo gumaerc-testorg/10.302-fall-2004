@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: Recitations section includes working on example problems that are handed
+  out in lecture a week before the recitation section.
 learning_resource_types:
 - Recitations
 ocw_type: CourseSection
@@ -82,7 +84,7 @@ Recitation 4
 18
 {{< tdclose >}}
 {{< tdopen >}}
-Recitation 5 ([PDF]({{< baseurl >}}/resources/rec1012))
+Recitation 5 ({{% resource_link da3192c7-5224-2894-abdc-aceb14a328a3 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -94,7 +96,7 @@ Recitation 5 ([PDF]({{< baseurl >}}/resources/rec1012))
 21
 {{< tdclose >}}
 {{< tdopen >}}
-Recitation 6 ([PDF]({{< baseurl >}}/resources/rec1019) )
+Recitation 6 ({{% resource_link 4304bfe7-502a-d9af-d426-4d8faa4f6c29 "PDF" %}} )
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -106,7 +108,7 @@ Recitation 6 ([PDF]({{< baseurl >}}/resources/rec1019) )
 25
 {{< tdclose >}}
 {{< tdopen >}}
-Recitation 7 ([PDF]({{< baseurl >}}/resources/rec1028))
+Recitation 7 ({{% resource_link 8ac06cd6-0d6a-8fbd-9967-cfa547587a29 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -130,7 +132,7 @@ Recitation 8
 33
 {{< tdclose >}}
 {{< tdopen >}}
-Recitation 9 ([PDF]({{< baseurl >}}/resources/rec1109) )
+Recitation 9 ({{% resource_link bc0b1dab-7a55-0b8e-833f-bf3be29e236f "PDF" %}} )
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -142,7 +144,7 @@ Recitation 9 ([PDF]({{< baseurl >}}/resources/rec1109) )
 36
 {{< tdclose >}}
 {{< tdopen >}}
-Recitation 10 ([PDF]({{< baseurl >}}/resources/rec1116) )
+Recitation 10 ({{% resource_link ba4687aa-94c8-b00f-b77f-f3f8ae2696ef "PDF" %}} )
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -154,7 +156,7 @@ Recitation 10 ([PDF]({{< baseurl >}}/resources/rec1116) )
 40
 {{< tdclose >}}
 {{< tdopen >}}
-Recitation 11 ([PDF]({{< baseurl >}}/resources/rec1123))
+Recitation 11 ({{% resource_link d60e5bef-2a6e-1e0a-2cf6-9be3509e5779 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -166,7 +168,7 @@ Recitation 11 ([PDF]({{< baseurl >}}/resources/rec1123))
 43
 {{< tdclose >}}
 {{< tdopen >}}
-Recitation 12 ([PDF]({{< baseurl >}}/resources/rec1130))
+Recitation 12 ({{% resource_link 26730584-b801-de19-f19d-d1299afef7af "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -178,7 +180,7 @@ Recitation 12 ([PDF]({{< baseurl >}}/resources/rec1130))
 46
 {{< tdclose >}}
 {{< tdopen >}}
-Recitation 13 ([PDF]({{< baseurl >}}/resources/rec1207))
+Recitation 13 ({{% resource_link f338c97d-4d09-a21c-04e8-f3fd1ec378fe "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
