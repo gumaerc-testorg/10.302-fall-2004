@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: Assignments section includes problems from the course text.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -62,7 +63,7 @@ Problem Set 4
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Problem Set 5 ([PDF]({{< baseurl >}}/resources/ps_5))
+Problem Set 5 ({{% resource_link 2e552673-f383-0401-8e99-b97c31bf827b "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -89,7 +90,7 @@ Problem Set 7
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Problem Set 8 ([PDF]({{< baseurl >}}/resources/ps_8))
+Problem Set 8 ({{% resource_link e0e0a7e7-0f0a-9a75-181e-a32c05da3b0a "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -98,7 +99,7 @@ Problem Set 8 ([PDF]({{< baseurl >}}/resources/ps_8))
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Problem Set 9 ([PDF]({{< baseurl >}}/resources/ps_9))
+Problem Set 9 ({{% resource_link c4a9a6e9-af13-b4b5-e00d-f85f90d24445 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -108,6 +109,6 @@ Problem Set 9 ([PDF]({{< baseurl >}}/resources/ps_9))
 
 {{< tableclose >}}
 
-Additional Example Problems ([PDF]({{< baseurl >}}/resources/exprobs))
+Additional Example Problems ({{% resource_link 2c7279ed-7869-bc99-6470-8ca612cd9a85 "PDF" %}})
 
 The [Student Companion Web Site](http://jws-edcv.wiley.com/college/bcs/redesign/student/0,12264,_0471386502_BKS_1737_____,00.html) for the [course text](http://he-cda.wiley.com/WileyCDA/HigherEdTitle/productCd-0471457280,courseCd-E40800.html) includes a listing of problem solutions.
