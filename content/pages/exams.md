@@ -2,13 +2,13 @@
 content_type: page
 description: Exams section includes recitation quizzes and previous year exams along
   with solutions.
+draft: false
 learning_resource_types:
 - Exams
 ocw_type: CourseSection
 title: Exams
 uid: 5e806096-43af-a7ce-d3bd-b9e63faabc78
 ---
-
 Recitation Quizzes
 ------------------
 
