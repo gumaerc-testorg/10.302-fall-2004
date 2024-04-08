@@ -190,4 +190,4 @@ Recitation 13 ({{% resource_link f338c97d-4d09-a21c-04e8-f3fd1ec378fe "PDF" %}})
 
 {{< tableclose >}}
 
-The [Student Companion Web Site](http://jws-edcv.wiley.com/college/bcs/redesign/student/0,12264,_0471386502_BKS_1737_____,00.html) for the course text includes a listing of problem solutions.
+The {{% resource_link "8ffa001c-92e9-436a-aecc-a462d3ee8f79" "Student Companion Web Site" %}} for the course text includes a listing of problem solutions.
