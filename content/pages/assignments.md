@@ -111,4 +111,4 @@ Problem Set 9 ({{% resource_link c4a9a6e9-af13-b4b5-e00d-f85f90d24445 "PDF" %}})
 
 Additional Example Problems ({{% resource_link 2c7279ed-7869-bc99-6470-8ca612cd9a85 "PDF" %}})
 
-The {{% resource_link "8ffa001c-92e9-436a-aecc-a462d3ee8f79" "Student Companion Web Site" %}} for the {{% resource_link "06662c59-36ae-4c23-b0cd-de58afb35d8b" "course text" %}} includes a listing of problem solutions.
+The [Student Companion Web Site](http://jws-edcv.wiley.com/college/bcs/redesign/student/0,12264,_0471386502_BKS_1737_____,00.html) for the [course text](http://he-cda.wiley.com/WileyCDA/HigherEdTitle/productCd-0471457280,courseCd-E40800.html) includes a listing of problem solutions.
