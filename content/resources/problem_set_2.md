@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/10-302-transport-processes-fall-2004/a83decb3906efb5be9c1106bc1ac26cc_problem_set_2.pdf
+file: /ol-ocw-studio-app/courses/10-302-transport-processes-fall-2004/a83decb3906efb5be9c1106bc1ac26cc_problem_set_2.pdf
 file_size: 54804
 file_type: application/pdf
 learning_resource_types:
