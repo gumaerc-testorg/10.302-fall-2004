@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/10-302-transport-processes-fall-2004/3e69e2c0ffd20698178c41dbb3e2ab18_pset4.pdf
+file: /courses/10-302-transport-processes-fall-2004/3e69e2c0ffd20698178c41dbb3e2ab18_pset4.pdf
 file_size: 16764
 file_type: application/pdf
 learning_resource_types:
