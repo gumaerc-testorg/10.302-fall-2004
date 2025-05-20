@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource include 12 example problems rerquired for the course.
-file: /ol-ocw-studio-app/courses/10-302-transport-processes-fall-2004/2c7279ed7869bc9964708ca612cd9a85_exprobs.pdf
+file: /courses/10-302-transport-processes-fall-2004/2c7279ed7869bc9964708ca612cd9a85_exprobs.pdf
 file_size: 360164
 file_type: application/pdf
 learning_resource_types:
