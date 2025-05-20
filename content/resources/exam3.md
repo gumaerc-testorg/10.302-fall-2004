@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource includes 2 problems based on saturated high pressure, and
   aqueous waste stream.
-file: /ol-ocw-studio-app/courses/10-302-transport-processes-fall-2004/bed054d78311bc9579e1b0814554134b_exam3.pdf
+file: /courses/10-302-transport-processes-fall-2004/bed054d78311bc9579e1b0814554134b_exam3.pdf
 file_size: 34527
 file_type: application/pdf
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource includes 2 problems based on crossflow exchanger, and air
   temperature.
-file: /ol-ocw-studio-app/courses/10-302-transport-processes-fall-2004/7b770c64ee327086ee36d2a27c637dcc_exam2.pdf
+file: /courses/10-302-transport-processes-fall-2004/7b770c64ee327086ee36d2a27c637dcc_exam2.pdf
 file_size: 105232
 file_type: application/pdf
 learning_resource_types:
